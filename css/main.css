@@ -266,6 +266,8 @@ nav.wnscrl {
 
 .nm {
   color: var(--main-clr);
+  transition: var(--alt-dur);
+
 }
 
 @media (max-width:767px) {
@@ -347,6 +349,8 @@ nav.wnscrl {
 /* Start Projects */
 .projects {
   background-color: var(--main-clr);
+    transition: var(--alt-dur);
+
 }
 
 .cd {
@@ -503,6 +507,7 @@ nav.wnscrl {
 /* Start Footer */
 footer {
   background-color: var(--main-clr);
+  transition: var(--alt-dur);
 }
 
 footer .links .list-unstyled li {
