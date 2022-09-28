@@ -385,6 +385,7 @@ nav.wnscrl {
 
 .projects .container .card:hover {
   box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.4);
+  translate: 0px -5px;
 }
 
 .projects .card:hover>.card-img img {
